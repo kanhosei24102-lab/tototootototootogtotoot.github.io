@@ -1,0 +1,67 @@
+/* ===== ヘッダーのスタイル ===== */
+header {
+  background-image: url(images/IMG_0304.jpeg);
+  padding: 150px;
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+  font-size: 80px;
+  font-family: lobster;
+  text-align: center;
+}
+
+/* ===== お店紹介のスタイル ===== */
+section {
+  background-color: #001200;
+  padding: 32px;
+}
+
+h2 {
+  color: #800000;
+  margin-bottom: 24px;
+}
+
+p {
+  margin-left: 32px;
+  margin-right: 32px;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+/* ===== おすすめのパン紹介のスタイル ===== */
+.ph {
+  background-color:#001200;
+}
+.photo {
+  background-image: url(images/IMG_0304.jpeg);
+  padding:40px;;
+  background-size: cover;
+}
+
+.layout {
+  display: flex;
+}
+
+.bread-photo {
+  margin-left: 32px;
+}
+
+h3 {
+  text-align: center;
+  margin-top: 12px;;
+  color: #ffffff;
+}
+
+/* ===== フッターのスタイル ===== */
+footer {
+  text-align: center;
+  background-color: #800000;
+  color: #ffffff;
+  padding: 10px;
+}
+h4 {
+  font-size:90px;
+  color: #800000;
+}
